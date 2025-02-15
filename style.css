@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    background-color: #ffd700;
+    margin-top: 30px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+}
+.nav{
+    font-size: 30px;
+    color: aliceblue;
+    text-align: center;
+    padding-left: 20px;
+}
+.nav ul{
+    margin-top: 20px;
+}
+.nav ul li a{
+    color: black;
+    text-decoration: none;
+    padding-left: 20px;
+}
+main{
+    box-sizing: border-box;
+    float: left;
+    display: flex;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+.arron{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(arron.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    color: yellow;
+    padding: 20px;
+    width: 350px;
+    height: 300px;
+    margin-top: 20px;
+}
+.click{
+    margin-top: 120px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.click a{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: transparent;
+    padding: 5px;
+    border-radius: 5px, auto;
+}
+.joshua{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(joshua.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    color: orange;
+    padding: 20px;
+    width: 350px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.jagger{
+    margin-top: 100px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.joshua a{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: transparent;
+    padding: 5px;
+    border-radius: 5px, auto;
+}
+.lee a{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: transparent;
+    padding: 5px;
+    border-radius: 5px, auto;
+}
+.miguel{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(miguel.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    color: blue;
+    padding: 20px;
+    width: 350px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 25px;
+    padding-right: 25px;
+}
+.lee{
+    margin-top: 120px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.logo{
+    text-align: center;
+    background: #ff4720;
+    margin-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 20px;
+}
+
